@@ -6,3 +6,5 @@ git push -u origin main
 Kod değiştirildi
 
 Yeniden
+
+XX
